@@ -1,1 +1,4 @@
-# pars_techno
+- tv, laptop, pk, cpu, gpu - в них хранится обработанные данные и два файла data analysis_tv.ipynb, data_processing.ipynb
+- data analysis_tv.ipynb - тут анализ и поиск схожих объектов
+- data_processing.ipynb - тут обработка данных, полученных с сайта
+- citilink - содержит 5 папок tv, laptop, pk, cpu, gpu. В каждой папке парсер ссылок и данных по ссылкам(в формате .ipynb, так как это удобнее), link.csv - ссылки на товары, data.csv - данные с сайта, полученные по ссылкам.
